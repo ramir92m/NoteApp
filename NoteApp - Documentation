@@ -1,0 +1,13 @@
+NoteApp - Created By Ramir Manarpaac
+Version 0.0 - Alpha
+
+Initial Development Date: April 1, 2014
+
+Abstract: 
+To provide a web-based note taking application that aims ease of use, simple, no complicated stuff, just pure write.
+
+
+Modules:
+-User Authentication(Login & Registration)
+-Adding, Editing, Viewing of Notes
+-

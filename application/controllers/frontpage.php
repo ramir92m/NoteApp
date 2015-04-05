@@ -8,7 +8,8 @@ class frontpage extends CI_Controller {
     
     function index()
     {
-        $this->load->view("frontpage");
+        $this->load->helper("url");
+        $this->load->view("mockup_frontpage");
     }
     
     

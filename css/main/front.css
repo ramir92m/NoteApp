@@ -1,0 +1,48 @@
+
+#header
+{
+    padding: 5px 10px;
+    background-color: #333;
+    
+}
+
+#header > .container
+{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.container
+{
+    clear:both;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.login:link
+{
+    color: #fff;
+    
+}
+
+.login:hover
+{
+    background-color: #222;
+}
+
+
+.brand:link
+{
+    
+    color: #fff;
+}
+
+.brand:hover
+{
+    background-color: #222;
+}
+
+.right
+{
+    float: right;
+}

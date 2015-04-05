@@ -1,0 +1,13 @@
+//Default Font for NoteApp 
+@font-face
+{
+    font-family: "Open-Sans Light";
+    src: url("../../assets/fonts/open-sans/OpenSans-Light.ttf");
+}
+
+@font-face
+{
+    font-family: "Open-Sans Bold";
+    src: url("../../assets/fonts/open-sans/OpenSans-Bold.ttf");
+}
+
